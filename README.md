@@ -1,3 +1,3 @@
-# coderbyte-golang
+# golang ile çözümler
 
-### Bu repository'yi coderbyte platformundaki kod problemlerinin golang kullanarak yaptığım çözümlerini paylaşmak için oluşturdum
+### Bu repository'yi "code case" platformularındaki kod problemlerinin golang kullanarak yaptığım çözümlerini paylaşmak için oluşturdum
